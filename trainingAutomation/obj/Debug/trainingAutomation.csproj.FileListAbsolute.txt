@@ -1,0 +1,11 @@
+D:\automation\trainingAutomation\trainingAutomation\bin\Debug\data\login.csv
+D:\automation\trainingAutomation\trainingAutomation\bin\Debug\trainingAutomation.dll
+D:\automation\trainingAutomation\trainingAutomation\bin\Debug\trainingAutomation.pdb
+D:\automation\trainingAutomation\trainingAutomation\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\automation\trainingAutomation\trainingAutomation\bin\Debug\SeleniumExtras.WaitHelpers.dll
+D:\automation\trainingAutomation\trainingAutomation\bin\Debug\WebDriver.dll
+D:\automation\trainingAutomation\trainingAutomation\bin\Debug\WebDriver.Support.dll
+D:\automation\trainingAutomation\trainingAutomation\bin\Debug\WebDriver.xml
+D:\automation\trainingAutomation\trainingAutomation\bin\Debug\WebDriver.Support.xml
+D:\automation\trainingAutomation\trainingAutomation\obj\Debug\trainingAutomation.dll
+D:\automation\trainingAutomation\trainingAutomation\obj\Debug\trainingAutomation.pdb
